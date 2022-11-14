@@ -11,17 +11,16 @@ In het college Workshop CSS voor Styleguides wordt uitgelegd hoe je CSS slimmer 
 
 ## Doel van deze opdracht
 
-Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS strategy.
+Je leert wat custom properties zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS strategy.
 
 
 ## Werkwijze
 
-CSS voor styleguides zit in de ontwerp en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties, container queries en structuur.
+CSS voor styleguides zit in de ontwerp en bouwfase. Je hebt een eerste opzet van de styleguide gemaakt en nu ga je de code refactoren met custom properties en structuur.
 
 - Fork deze leertaak
 - Gebruik custom properties voor CSS properties die meerdere keren voorkomen
 - Breng structuur aan in je CSS
-- Pas container queries toe (optioneel)
 
 ## Criteria
 
