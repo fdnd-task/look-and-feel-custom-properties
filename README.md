@@ -2,6 +2,10 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
+# CSS Custom Properties
+
+Pas custom properties toe en breng structuur aan in een CSS file.
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
