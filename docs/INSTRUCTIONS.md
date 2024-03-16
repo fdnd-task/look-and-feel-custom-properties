@@ -1,5 +1,5 @@
 
-# Look and Feel - Custom Properties
+# CSS Custom Properties
 
 Pas custom properties toe en breng structuur aan in een CSS file.
 
